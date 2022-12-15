@@ -11,6 +11,4 @@ The purpose of the analysis is to read temperature trends before opening a surf 
 
 ## Summary:
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
-
 Based on the findings, the shop in Hawaii is sustainable year-round as the temperature summary statistics are within 10 degrees of each other for both months. I would do an additional query to gather more precipitation data for June and December to check if weather conditons are ideal for going surfing and getting ice cream and another query to gather data from the most active station nearest Oahu for June and December and check its weather observations.
